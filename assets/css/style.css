@@ -156,16 +156,16 @@ header {
   right:0;
   width: 100%;
   text-align: center;
-  background: /*url(../img/background-gray.png)*/ #454545;
-  box-shadow: 1px 0px 2px rgba(0,0,0,.75);
+  background: /*url(../img/background-gray.png)*/ #a0a0a0;
+  box-shadow: #120032;
   z-index:99;
   -webkit-font-smoothing:antialiased;
   min-height: 76px;
 
   h1 {
     font: 40px/48px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: #f3f3f3;
-    text-shadow: 0px 2px 0px #235796;
+    color: #007ff5;
+    text-shadow: 0px 2px 0px #122032;
     margin: 0px;
     white-space: nowrap;
     overflow: hidden;
@@ -175,8 +175,8 @@ header {
   }
 
   p {
-    color: #d8d8d8;
-    text-shadow:rgba(#000, 0.2) 0 1px 0;
+    color: #2b2b2b;
+    text-shadow:rgba(#122032, 0.2) 0 1px 0;
     font-size: 18px;
     margin: 0px;
   }
@@ -193,17 +193,17 @@ header {
   background: #007ff5;
   
    
-  border: 1px solid #f0b500;
+  border: 1px solid #1000f0;
   box-shadow: 0px 1px 3px rgba(0,0,0,.25);
   border-radius: 0px 2px 2px 0px;
   padding-right: 10px;
 
   .button {
-    border: 1px solid #dba500;
-    background: linear-gradient(rgb(255, 231, 136), rgb(255, 206, 56));
+    border: 1px solid #a9a9a9;
+    background: linear-gradient(rgb(161, 161, 161), rgb(161, 161, 161));
     border-radius: 2px;
     box-shadow: inset 0px 1px 0px rgba(255,255,255,.4), 0px 1px 1px rgba(0,0,0,.1);
-    background-color: #FFE788;
+    background-color: #b8b8b8;
     margin-left: 5px;
     padding: 10px 12px;
     margin-top: 6px;

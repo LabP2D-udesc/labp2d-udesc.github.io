@@ -64,39 +64,49 @@
   <li>Name - <a href="#" target="_blank" rel="noopener">CV Lattes</a> - <a href="#" target="_blank" rel="noopener">ORCID</a></li>
   <li>Name - <a href="#" target="_blank" rel="noopener">CV Lattes</a> - <a href="#" target="_blank" rel="noopener">ORCID</a></li>
 </ul>
+<br>
 
 <b>PhD Students:</b>
 <ul>
   <li>Name</li>
 </ul>
 
-<b>Master’s Students:</b>
+<b>Master’s Students (in progress)</b>
 <ul>
-  <li>Name</li>
-  <li>Name</li>
-  <li>Name</li>
-  <li>Name</li>
+  <li><a href="https://github.com/adneiwd">Adnei Willian Donatti</a></li>
+  <li><a href="https://github.com/alinesm">Aline da Silva Moreira</a></li>
+  <li><a href="https://github.com/danielcamargo">Daniel Scheidemantel Camargo</a></li>
+  <li><a href="https://github.com/leonardoacr">Leonardo Rosa Rodrigues</a></li>
+  <li><a href="https://github.com/lucascamelo">Lucas Camelo Casagrande</a></li>
+  <li><a href="https://github.com/vilsonmoro">Vilson Moro</a></li>
+  <li><a href="https://github.com/tathianaduarte">Tathiana Duarte de Amarantes</a></li>
 </ul>
 
-<b>Undergraduate Students (Final Project):</b>
+
+<b>Undergraduate Students (Final Project in progress):</b>
 <ul>
-  <li>Name</li>
-  <li>Name</li>
-  <li>Name</li>
-  <li>Name</li>
-  <li>Name</li>
+  <li><a href="https://github.com/gustavodiel">Gustavo Diel</a></li>
+  <li><a href="https://github.com/Br3nOT">Bruno Bastos Rodrigues</a></li>
+  <li><a href="https://github.com/henriquemarlon">Henrique Marlon</a></li>
+  <li><a href="https://github.com/nicolasqbert">Nicolas Peter Lane</a></li>
+  <li><a href="https://github.com/renanmoretto">Renan Moretto Bernardi</a></li>
 </ul>
+
 
 <b>Undergraduate Students (Scientific Initiation):</b>
 <ul>
-  <li>Name</li>
-  <li>Name</li>
-  <li>Name</li>
-  <li>Name</li>
-  <li>Name</li>
+  <li><a href="https://github.com/guixavier77">Guilherme Xavier de Carvalho</a></li>
+  <li><a href="https://github.com/GustavoSilvaNogueira">Gustavo Silva</a></li>
+  <li><a href="https://github.com/kerolayne">Kerolayne de Souza Vieira de Oliveira</a></li>
+  <li><a href="https://github.com/kleitonp">Kleiton Pereira</a></li>
+  <li><a href="https://github.com/lucas-litter">Lucas Litter Mentz</a></li>
+  <li><a href="https://github.com/nicolasqbert">Nicolas Peter Lane</a></li>
+  <li><a href="https://github.com/renatotanaka">Renato Tanaka</a></li>
+  <li><a href="https://github.com/wiltonjaciel">Wilton Jaciel Loch</a></li>
 </ul>
 
-<a href="https://paullollima.github.io/GraduatedStudents.html" target="_blank" rel="noopener">Graduated Students</a>
+
+<b> <a href="https://paullollima.github.io/GraduatedStudents.html" target="" rel="noopener">Graduated Students</a> </b>
 
 <hr>
 
@@ -109,6 +119,8 @@
   <li>Internet of Things</li>
   <li>Distributed Systems and Parallel Programming</li>
 </ul>
+
+<p> <a href="https://paullollima.github.io/Related Projects.html" target="" rel="noopener">Related Projects</a></p>
 
 <hr>
 
@@ -130,13 +142,6 @@
 </ul>
 
 <p>The available infrastructure is currently being updated.</p>
-
-<hr>
-
-<h2><a href="https://paullollima.github.io/source-code.html" target="_blank" rel="noopener">Source Code</a></h2>
-<p>A significant portion of the projects developed at LabP2D have source code available for consultation and download via the link above.</p>
-
-<hr>
 
 <h2>Address</h2>
 <p>
