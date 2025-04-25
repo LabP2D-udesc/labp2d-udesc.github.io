@@ -153,6 +153,6 @@
   ZIP: 89.219-710
 </p>
 
-<p>
-  <img style="display: block; margin-left: auto; margin-right: auto;" src="https://labp2d-udesc.github.io/img/logo7.png" alt="LabP2D Logo" />  <!--img/logo2.png-->
-</p>
+<!-- <p>
+  <img style="display: block; margin-left: auto; margin-right: auto;" src="https://labp2d-udesc.github.io/img/logo7.png" alt="LabP2D Logo" />  
+</p> -->
