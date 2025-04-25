@@ -106,7 +106,7 @@
 </ul>
 
 
-<b> <a href="https://paullollima.github.io/GraduatedStudents.html" target="" rel="noopener">Graduated Students</a> </b>
+<b> <a href="https://labp2d-udesc.github.io/GraduatedStudents.html" target="" rel="noopener">Graduated Students</a> </b>
 
 <hr>
 
@@ -120,7 +120,7 @@
   <li>Distributed Systems and Parallel Programming</li>
 </ul>
 
-<p> <a href="https://paullollima.github.io/Related Projects.html" target="" rel="noopener">Related Projects</a></p>
+<p> <a href="https://labp2d-udesc.github.io/Related Projects.html" target="" rel="noopener">Related Projects</a></p>
 
 <hr>
 
@@ -153,5 +153,5 @@
 </p>
 
 <p>
-  <img style="display: block; margin-left: auto; margin-right: auto;" src="https://paullollima.github.io/img/logo7.png" alt="LabP2D Logo" />  <!--img/logo2.png-->
+  <img style="display: block; margin-left: auto; margin-right: auto;" src="https://labp2d-udesc.github.io/img/logo7.png" alt="LabP2D Logo" />  <!--img/logo2.png-->
 </p>
