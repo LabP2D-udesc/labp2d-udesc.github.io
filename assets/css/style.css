@@ -158,7 +158,7 @@ header {
   background-color: #dddddd;
   background-image: url(https://labp2d-udesc.github.io/img/logo1.png);
   background-repeat: no-repeat;
-  background-position: calc(50%-150px) center; /* posiciona a imagem à esquerda */
+  background-position: 50% center; /* posiciona a imagem à esquerda */
   background-size: auto; /* controla o tamanho da imagem */
   box-shadow: 0 2px 5px #120032;
   z-index: 99;
