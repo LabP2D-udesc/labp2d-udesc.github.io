@@ -164,7 +164,7 @@ header {
   z-index: 99;
   -webkit-font-smoothing: antialiased;
   min-height: 76px;
-  text-align: left;
+  text-align: 70px left;
 }
 
 /* Estilo do título */
