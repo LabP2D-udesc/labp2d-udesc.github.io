@@ -159,7 +159,7 @@ header {
   background-image: url(https://labp2d-udesc.github.io/img/logo1.png);
   background-repeat: no-repeat;
   background-position:  center; /* posiciona a imagem à esquerda */
-  background-size: 60px auto; /* controla o tamanho da imagem */
+  background-size:  auto; /* controla o tamanho da imagem */
   box-shadow: 0 2px 5px #120032;
   z-index: 99;
   -webkit-font-smoothing: antialiased;
