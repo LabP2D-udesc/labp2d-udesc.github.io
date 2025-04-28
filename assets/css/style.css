@@ -158,9 +158,9 @@ header {
   text-align: center;
   background: #a0a0a0;;
   background-image: /*url(https:/labp2d-udesc.github.io/img/background-gray.png),*/url(https://labp2d-udesc.github.io/img/logo1.png);
-  background-position: right bottom;
-  background-repeat: no-repeat;
-  padding: 15px; 
+  background-position: center;
+  background-repeat: no-repeat,repeat;
+  padding:auto; 
   box-shadow: #120032;
   z-index:99;
   -webkit-font-smoothing:antialiased;
