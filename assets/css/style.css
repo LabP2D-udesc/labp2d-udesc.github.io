@@ -157,7 +157,7 @@ header {
   width: 100%;
   text-align: center;
   background: /* #a0a0a0;*/;
-  background-image: url(../img/background-gray.png),url(https://labp2d-udesc.github.io/img/logo1.png);
+  background-image: url(https:/labp2d-udesc.github.io/img/background-gray.png),url(https://labp2d-udesc.github.io/img/logo1.png);
   background-position: right bottom, left top;
   background-repeat: no-repeat,repeat;
   padding: auto; 
