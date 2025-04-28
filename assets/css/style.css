@@ -147,56 +147,43 @@ dt {
   font-weight:700;
 }
 
-/* Cabeçalho fixo e estilizado */
 header {
+  padding: 20px 20px 20px 100px; /* espaço à esquerda para a imagem */
+  margin: 0;
   position: fixed;
   top: 0;
   left: 0;
   right: 0;
   width: 100%;
   background-color: #a0a0a0;
+  background-image: url(https://labp2d-udesc.github.io/img/logo1.png);
+  background-repeat: no-repeat;
+  background-position: 20px center; /* posiciona a imagem à esquerda */
+  background-size: 60px auto; /* controla o tamanho da imagem */
   box-shadow: 0 2px 5px #120032;
   z-index: 99;
   -webkit-font-smoothing: antialiased;
-  padding: 20px 30px;
-}
-
-/* Container interno com Flexbox para alinhar imagem e texto */
-.header-content {
-  display: flex;
-  align-items: center;
-  justify-content: center; /* centraliza todo o conteúdo */
-  gap: 20px;
-}
-
-/* Estilo da logo */
-.logo {
-  height: 60px;
-  width: auto;
-}
-
-/* Container para o texto */
-.text-container {
+  min-height: 76px;
   text-align: left;
 }
 
-/* Título */
-.text-container h1 {
+/* Estilo do título */
+header h1 {
   font: 40px/48px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #000;
-  text-shadow: 0 2px 0 #000;
+  color: #000000;
+  text-shadow: 0px 2px 0px #000000;
   margin: 0;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
 }
 
-/* Subtítulo ou parágrafo */
-.text-container p {
+/* Estilo opcional do parágrafo */
+header p {
   color: #2b2b2b;
   text-shadow: rgba(18, 32, 50, 0.2) 0 1px 0;
   font-size: 18px;
-  margin: 4px 0 0 0;
+  margin: 0;
 }
 
 #banner {
