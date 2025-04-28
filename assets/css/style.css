@@ -147,45 +147,56 @@ dt {
   font-weight:700;
 }
 
+/* Cabeçalho fixo e estilizado */
 header {
-  padding: 25px 20px 40px 20px;
-  margin: 0;
   position: fixed;
   top: 0;
-  left:0;
-  right:0;
+  left: 0;
+  right: 0;
   width: 100%;
-  text-align: center;
-  background: #a0a0a0;;
-  background-image: /*url(https:/labp2d-udesc.github.io/img/background-gray.png),*/url(https://labp2d-udesc.github.io/img/logo1.png);
-  background-position: center;
-  background-repeat: no-repeat,repeat;
-  padding:auto; 
-  box-shadow: #120032;
-  z-index:99;
-  -webkit-font-smoothing:antialiased;
-  min-height: 76px;
+  background-color: #a0a0a0;
+  box-shadow: 0 2px 5px #120032;
+  z-index: 99;
+  -webkit-font-smoothing: antialiased;
+  padding: 20px 30px;
+}
 
-  h1 {
-    font: 40px/48px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: #000000;
-    text-shadow: 0px 2px 0px #000000;
-    margin: 0px;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    -o-text-overflow: ellipsis;
-    -ms-text-overflow: ellipsis;
-  }
+/* Container interno com Flexbox para alinhar imagem e texto */
+.header-content {
+  display: flex;
+  align-items: center;
+  justify-content: center; /* centraliza todo o conteúdo */
+  gap: 20px;
+}
 
-  p {
-    color: #2b2b2b;
-    text-shadow:rgba(#122032, 0.2) 0 1px 0;
-    font-size: 18px;
-    margin: 0px;
+/* Estilo da logo */
+.logo {
+  height: 60px;
+  width: auto;
+}
 
-    
-  }
+/* Container para o texto */
+.text-container {
+  text-align: left;
+}
+
+/* Título */
+.text-container h1 {
+  font: 40px/48px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #000;
+  text-shadow: 0 2px 0 #000;
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Subtítulo ou parágrafo */
+.text-container p {
+  color: #2b2b2b;
+  text-shadow: rgba(18, 32, 50, 0.2) 0 1px 0;
+  font-size: 18px;
+  margin: 4px 0 0 0;
 }
 
 #banner {
