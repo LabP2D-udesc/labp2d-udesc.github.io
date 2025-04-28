@@ -156,7 +156,7 @@ header {
   right:0;
   width: 100%;
   text-align: center;
-  background: /*url(../img/background-gray.png)*/ #a0a0a0;
+  background: /*url(../img/background-gray.png)*/url(https://labp2d-udesc.github.io/img/logo7.png)  #a0a0a0;
   box-shadow: #120032;
   z-index:99;
   -webkit-font-smoothing:antialiased;
@@ -164,8 +164,8 @@ header {
 
   h1 {
     font: 40px/48px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: #ffffff;
-    text-shadow: 0px 2px 0px #ffffff;
+    color: #000000;
+    text-shadow: 0px 2px 0px #000000;
     margin: 0px;
     white-space: nowrap;
     overflow: hidden;
@@ -179,6 +179,8 @@ header {
     text-shadow:rgba(#122032, 0.2) 0 1px 0;
     font-size: 18px;
     margin: 0px;
+
+    
   }
 }
 
