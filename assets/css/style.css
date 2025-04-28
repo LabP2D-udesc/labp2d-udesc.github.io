@@ -170,8 +170,8 @@ header {
 /* Estilo do título */
 header h1 {
   font: 40px/48px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #8d8d8d;
-  text-shadow: 0px 2px 0px #8d8d8d;
+  color: #4d4d4d;
+  text-shadow: 0px 2px 0px #4d4d4d;
   margin: 0;
   white-space: nowrap;
   overflow: hidden;
