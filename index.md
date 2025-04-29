@@ -25,7 +25,7 @@
 
 <hr>
 
-<h2>Manage Team</h2>
+<h2>Squad</h2>
 
 <ul>
   <li>Guilherme Piêgas Koslovski (Coordinator)
