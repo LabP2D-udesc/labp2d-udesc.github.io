@@ -72,8 +72,6 @@
   <li>João Henrique Faes Battisti - <a href="http://lattes.cnpq.br/5303447453041812" target="_blank" rel="noopener">CV Lattes</a></li> 
   <li>Danilo Farias de Carvalho - <a href="http://lattes.cnpq.br/6134292458369848" target="_blank" rel="noopener">CV Lattes</a></li> 
   <li>Dhyonatan Santos de Freitas - <a href="http://lattes.cnpq.br/1174014726140767" target="_blank" rel="noopener">CV Lattes</a></li> 
-
-
 </ul>
 
 <b>Master’s Students (in progress)</b>
@@ -86,26 +84,28 @@
 
 <b>Undergraduate Students (Final Project in progress):</b>
 <ul>
-  <li><a href="https://github.com/gustavodiel">Gustavo Diel</a></li>
-  <li><a href="https://github.com/Br3nOT">Bruno Bastos Rodrigues</a></li>
-  <li><a href="https://github.com/henriquemarlon">Henrique Marlon</a></li>
-  <li><a href="https://github.com/nicolasqbert">Nicolas Peter Lane</a></li>
-  <li><a href="https://github.com/renanmoretto">Renan Moretto Bernardi</a></li>
+  <li>Gustavo Diel - <a href="http://lattes.cnpq.br/1838669480237003" target="_blank" rel="noopener">CV Lattes</a></li>
+  <li>Gilson Sohn Junior - <a href="http://lattes.cnpq.br/4189809129741221" target="_blank" rel="noopener">CV Lattes</a></li>
+  <li>Ana Carolina Vedoy Alves - <a href="http://lattes.cnpq.br/2353984965340377" target="_blank" rel="noopener">CV Lattes</a></li>
+  <li>César Eduardo de Souza - <a href="http://lattes.cnpq.br/6347063183055373" target="_blank" rel="noopener">CV Lattes</a></li>
+  <li>Guilherme Diel - <a href="http://lattes.cnpq.br/3207047358123878" target="_blank" rel="noopener">CV Lattes</a></li>
 </ul>
 
 
 <b>Undergraduate Students (Scientific Initiation):</b>
 <ul>
-  <li><a href="https://github.com/guixavier77">Guilherme Xavier de Carvalho</a></li>
-  <li><a href="https://github.com/GustavoSilvaNogueira">Gustavo Silva</a></li>
-  <li><a href="https://github.com/kerolayne">Kerolayne de Souza Vieira de Oliveira</a></li>
-  <li><a href="https://github.com/kleitonp">Kleiton Pereira</a></li>
-  <li><a href="https://github.com/lucas-litter">Lucas Litter Mentz</a></li>
-  <li><a href="https://github.com/nicolasqbert">Nicolas Peter Lane</a></li>
-  <li><a href="https://github.com/renatotanaka">Renato Tanaka</a></li>
-  <li><a href="https://github.com/wiltonjaciel">Wilton Jaciel Loch</a></li>
+  <li>Enzo Belló Boscatto - <a href=" http://lattes.cnpq.br/4070323947171983" target="_blank" rel="noopener">CV Lattes</a></li>
+  <li>Lívia Mayumi Kawasaki Alves - <a href="http://lattes.cnpq.br/2873406392360821" target="_blank" rel="noopener">CV Lattes</a></li>
+  <li>Claudinei Cabral Junior - <a href="http://lattes.cnpq.br/7107655768475341" target="_blank" rel="noopener">CV Lattes</a></li>
+  <li>Ana Carolina Vedoy Alves - <a href="http://lattes.cnpq.br/2353984965340377" target="_blank" rel="noopener">CV Lattes</a></li>
+  <li>Rodrigo Augusto Krauel - <a href="http://lattes.cnpq.br/3998802393924706" target="_blank" rel="noopener">CV Lattes</a></li>
+  <li>Carlos Daniel Schmitt Bunn - <a href="http://lattes.cnpq.br/1976376003334376" target="_blank" rel="noopener">CV Lattes</a></li>
+  <li>André Luiz Correia Filho - <a href=" http://lattes.cnpq.br/0203224417358034" target="_blank" rel="noopener">CV Lattes</a></li>
+  <li>Mateus Unulino dos Passos - <a href="http://lattes.cnpq.br/0049894233352659" target="_blank" rel="noopener">CV Lattes</a></li>
 </ul>
 
+<b>Undergraduate Students (Trainee):</b>
+<li>Paulo Roberto De Lima Junior - <a href=" http://lattes.cnpq.br/6854570664332816" target="_blank" rel="noopener">CV Lattes</a></li>
 
 <b> <a href="https://labp2d-udesc.github.io/GraduatedStudents.html" target="" rel="noopener">Graduated Students</a> </b>
 
