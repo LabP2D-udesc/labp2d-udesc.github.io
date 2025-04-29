@@ -68,19 +68,19 @@
 
 <b>PhD Students:</b>
 <ul>
-  <li>Name</li>
+  <li>Anderson Henrique da Silva Marcondes - <a href="http://lattes.cnpq.br/8597354642218321" target="_blank" rel="noopener">CV Lattes</a></li>
+  <li>João Henrique Faes Battisti - <a href="http://lattes.cnpq.br/5303447453041812" target="_blank" rel="noopener">CV Lattes</a></li> 
+  <li>Danilo Farias de Carvalho - <a href="http://lattes.cnpq.br/6134292458369848" target="_blank" rel="noopener">CV Lattes</a></li> 
+  <li>Dhyonatan Santos de Freitas - <a href="http://lattes.cnpq.br/1174014726140767" target="_blank" rel="noopener">CV Lattes</a></li> 
+
+
 </ul>
 
 <b>Master’s Students (in progress)</b>
 <ul>
   <li>Leonardo Valério Anastácio - <a href=" http://lattes.cnpq.br/7175324937138943" target="_blank" rel="noopener">CV Lattes</a></li>
-  <li><a href="https://github.com/adneiwd">Adnei Willian Donatti</a></li>
-  <li><a href="https://github.com/alinesm">Aline da Silva Moreira</a></li>
-  <li><a href="https://github.com/danielcamargo">Daniel Scheidemantel Camargo</a></li>
-  <li><a href="https://github.com/leonardoacr">Leonardo Rosa Rodrigues</a></li>
-  <li><a href="https://github.com/lucascamelo">Lucas Camelo Casagrande</a></li>
-  <li><a href="https://github.com/vilsonmoro">Vilson Moro</a></li>
-  <li><a href="https://github.com/tathianaduarte">Tathiana Duarte de Amarantes</a></li>
+  <li>Milton Pedro Pagliuso Neto - <a href="http://lattes.cnpq.br/3860300710467540" target="_blank" rel="noopener">CV Lattes</a></li>
+  <li>Henrique Zanela Cochak - <a href="http://lattes.cnpq.br/2575914936091403" target="_blank" rel="noopener">CV Lattes</a></li>
 </ul>
 
 
