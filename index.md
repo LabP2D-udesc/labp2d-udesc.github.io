@@ -108,6 +108,9 @@
 <ul>
 <li>Paulo Roberto De Lima Junior - <a href=" http://lattes.cnpq.br/6854570664332816" target="_blank" rel="noopener">CV Lattes</a></li>
 <ul>
+
+<br>
+
 <b> <a href="https://labp2d-udesc.github.io/GraduatedStudents.html" target="" rel="noopener">Graduated Students</a> </b>
 
 <hr>
