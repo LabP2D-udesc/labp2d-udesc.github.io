@@ -59,12 +59,12 @@
   </li>
 </ul>
 
-<b>Team Collaborators:</b>
+<!--> <b>Team Collaborators:</b>
 <ul>
   <li>Name - <a href="#" target="_blank" rel="noopener">CV Lattes</a> - <a href="#" target="_blank" rel="noopener">ORCID</a></li>
   <li>Name - <a href="#" target="_blank" rel="noopener">CV Lattes</a> - <a href="#" target="_blank" rel="noopener">ORCID</a></li>
 </ul>
-<br>
+<br> -->
 
 <b>PhD Students:</b>
 <ul>
