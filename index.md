@@ -59,11 +59,6 @@
   </li>
 </ul>
 
-<!--> <b>Team Collaborators:</b>
-<ul>
-  <li>Name - <a href="#" target="_blank" rel="noopener">CV Lattes</a> - <a href="#" target="_blank" rel="noopener">ORCID</a></li>
-  <li>Name - <a href="#" target="_blank" rel="noopener">CV Lattes</a> - <a href="#" target="_blank" rel="noopener">ORCID</a></li>
-</ul> -->
 <br>
 
 <b>PhD Students:</b>
@@ -107,7 +102,7 @@
 <b>Undergraduate Students (Trainee):</b>
 <ul>
 <li>Paulo Roberto De Lima Junior - <a href=" http://lattes.cnpq.br/6854570664332816" target="_blank" rel="noopener">CV Lattes</a></li>
-<ul>
+</ul>
 
 
 <b> <a href="https://labp2d-udesc.github.io/GraduatedStudents.html" target="" rel="noopener">Graduated Students</a> </b>
