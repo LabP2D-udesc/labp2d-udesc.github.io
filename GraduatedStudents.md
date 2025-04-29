@@ -5,6 +5,7 @@ layout: default
 ## Graduated Students
 
 <ul>
+<li> - <a href="" target="_blank" rel="noopener">CV Lattes</a></li>
 <li><a href="#">Aurélio Grott Neto</a></li>  
 <li><a href="#">Bruno Bastos Rodrigues</a></li>  
 <li><a href="#">Daniel Scheidemantel Camargo</a></li>  
