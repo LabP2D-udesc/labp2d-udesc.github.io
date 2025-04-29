@@ -73,6 +73,7 @@
 
 <b>Master’s Students (in progress)</b>
 <ul>
+  <li>Leonardo Valério Anastácio - <a href=" http://lattes.cnpq.br/7175324937138943" target="_blank" rel="noopener">CV Lattes</a></li>
   <li><a href="https://github.com/adneiwd">Adnei Willian Donatti</a></li>
   <li><a href="https://github.com/alinesm">Aline da Silva Moreira</a></li>
   <li><a href="https://github.com/danielcamargo">Daniel Scheidemantel Camargo</a></li>
