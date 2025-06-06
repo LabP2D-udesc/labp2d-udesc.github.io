@@ -169,6 +169,16 @@ header {
   text-align: 150px left;
 }
 
+.google-calendar {
+    max-width: 80%;
+    overflow: hidden;
+    margin: 20px 0;
+  }
+  iframe {
+    width: 80%;
+    border-radius: 8px;
+  }
+
 /* Estilo do título */
 header h1 {
   font: 40px/48px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
