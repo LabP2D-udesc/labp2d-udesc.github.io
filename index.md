@@ -128,12 +128,6 @@
   <li>Institution / Research Group - (insert link)</li>
 </ul>
 
-<h2>Schedule & Reservations</h2>
-<div class="google-calendar" style="margin-bottom: 30px;">
-  <iframe src="https://calendar.google.com/calendar/embed?src=udesc.labp2d%40gmail.com&ctz=America%2FSao_Paulo" 
-    style="border: 0; width: 100%; height: 600px;" frameborder="0" scrolling="no">
-  </iframe>
-</div>
 <hr>
 
 <h2>Laboratory Resources</h2>
@@ -145,6 +139,13 @@
   <li>Support: <a href="https://www.nvidia.com" target="_blank" rel="noopener">NVIDIA</a></li>
   <li>Resource description 06</li>
 </ul>
+
+<h2>Schedule & Reservations</h2>
+<div class="google-calendar" style="margin-bottom: 30px;">
+  <iframe src="https://calendar.google.com/calendar/embed?src=udesc.labp2d%40gmail.com&ctz=America%2FSao_Paulo" 
+    style="border: 0; width: 100%; height: 600px;" frameborder="0" scrolling="no">
+  </iframe>
+</div>
 
 <p>The available infrastructure is currently being updated.</p>
 
