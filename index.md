@@ -128,6 +128,12 @@
   <li>Institution / Research Group - (insert link)</li>
 </ul>
 
+<h2>Schedule & Reservations</h2>
+<div class="google-calendar" style="margin-bottom: 30px;">
+  <iframe src="https://calendar.google.com/calendar/embed?src=udesc.labp2d%40gmail.com&ctz=America%2FSao_Paulo" 
+    style="border: 0; width: 100%; height: 600px;" frameborder="0" scrolling="no">
+  </iframe>
+</div>
 <hr>
 
 <h2>Laboratory Resources</h2>
@@ -152,6 +158,4 @@
   ZIP: 89.219-710
 </p>
 
-<!-- <p>
-  <img style="display: block; margin-left: auto; margin-right: auto;" src="https://labp2d-udesc.github.io/img/logo7.png" alt="LabP2D Logo" />  
-</p> -->
+
